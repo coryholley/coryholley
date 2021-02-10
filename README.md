@@ -1,3 +1,6 @@
+[![coryholley
+header](https://github.com/coryholley/coryholley_header.mp4)]
+
 ### Hi there! 👋
 
 Detail-oriented, driven developer with a passion for creating beautiful and efficient web applications. Based out of San Antonio, TX, I am currently going through my list of Udemy courses and learning as much as I can!
