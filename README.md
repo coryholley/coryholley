@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/coryholley/coryholley/assets/coryholley_header.gif "Header")]
+![Header](https://raw.githubusercontent.com/coryholley/coryholley/assets/coryholley_header.gif "Header")
 
 ### Hi there! 👋
 
