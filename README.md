@@ -1,5 +1,4 @@
-[![coryholley
-header](https://github.com/coryholley/coryholley_header.mp4)]
+[![Header](https://raw.githubusercontent.com/coryholley/coryholley/coryholley_header.mp4 "Header")]
 
 ### Hi there! 👋
 
