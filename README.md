@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/coryholley/coryholley/assets/coryholley_header.gif "Header")
 
-### Hi there! <img src="https://raw.githubusercontent.com/coryholley/coryholley/assets/wave.gif" width="30px">
+### Hi there! <img src="https://raw.githubusercontent.com/coryholley/coryholley/assets/wave.gif" width="50px">
 
 
 Detail-oriented, driven developer with a passion for creating beautiful and efficient web applications. Based out of San Antonio, TX, I am currently going through my list of Udemy courses and learning as much as I can!
