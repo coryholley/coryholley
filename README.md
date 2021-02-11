@@ -1,5 +1,5 @@
 ![Header](https://raw.githubusercontent.com/coryholley/coryholley/assets/coryholley_header.gif "Header")
-
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 ### Hi there! 👋
 
 Detail-oriented, driven developer with a passion for creating beautiful and efficient web applications. Based out of San Antonio, TX, I am currently going through my list of Udemy courses and learning as much as I can!
