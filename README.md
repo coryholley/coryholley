@@ -16,6 +16,6 @@ Detail-oriented, driven developer with a passion for creating beautiful and effi
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=coryholley&&show_icons=true&theme=algolia" height="200">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=coryholley&&show_icons=true&theme=algolia" width="200">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coryholley&&show_icons=true&theme=algolia" width="400">
 
 
