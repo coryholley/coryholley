@@ -6,7 +6,8 @@ Skills:
 
 Full Stack Web Development Bootcamp & More:
 
-![Codeup](https://raw.githubusercontent.com/coryholley/coryholley/assets/codeup.png" width="30px")- [Codeup](https://alumni.codeup.com/students/913)
+<img src="https://raw.githubusercontent.com/coryholley/coryholley/assets/codeup.png"  width="30">  [Codeup](https://alumni.codeup.com/students/913)
+
 <img alt="Udemy" src="https://img.shields.io/badge/Udemy%20-%23EA5252.svg?&style=for-the-badge&logo=Udemy&logoColor=white"/>
 
 
