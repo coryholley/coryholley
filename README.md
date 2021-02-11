@@ -5,7 +5,8 @@ Skills:
 <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/><img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/><img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
 Full Stack Web Development Bootcamp & More:
-<img src="https://raw.githubusercontent.com/coryholley/coryholley/assets/codeup.png" width="30px">(https://alumni.codeup.com/students/913)
+
+<img src="https://raw.githubusercontent.com/coryholley/coryholley/assets/codeup.png" href="(https://alumni.codeup.com/students/913)" width="30px">
 <img alt="Udemy" src="https://img.shields.io/badge/Udemy%20-%23EA5252.svg?&style=for-the-badge&logo=Udemy&logoColor=white"/>
 
 
