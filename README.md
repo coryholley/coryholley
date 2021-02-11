@@ -18,4 +18,8 @@ Detail-oriented, driven developer with a passion for creating beautiful and effi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coryholley&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=coryholley&&show_icons=true&theme=algolia" height="200">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=calebewheeler&&show_icons=true&theme=algolia" height="200">
+
 
