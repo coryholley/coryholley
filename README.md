@@ -14,7 +14,7 @@ Detail-oriented, driven developer with a passion for creating beautiful and effi
 
 ## &#x1f4c8; GitHub Stats
 
-[![Cory's GitHub stats](https://github-readme-stats.vercel.app/api?username=coryholley&show_icons=true&theme=yeblu)](https://github.com/coryholley/github-readme-stats)
+[![Cory's GitHub stats](https://github-readme-stats.vercel.app/api?username=coryholley&show_icons=true&theme=algolia)](https://github.com/coryholley/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coryholley&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
