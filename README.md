@@ -11,7 +11,7 @@ Full Stack Web Development Bootcamp & More:
 <img alt="Udemy" src="https://img.shields.io/badge/Udemy%20-%23EA5252.svg?&style=for-the-badge&logo=Udemy&logoColor=white"/>
 
 
-### Hi there! <img src="https://raw.githubusercontent.com/coryholley/coryholley/assets/wave.gif" height="60">
+### Hi there! <img align="left"  src="https://raw.githubusercontent.com/coryholley/coryholley/assets/wave.gif" width="80">
 
 Detail-oriented, driven developer with a passion for creating beautiful and efficient web applications. Based out of San Antonio, TX, I am currently going through my list of Udemy courses and learning as much as I can!
 
